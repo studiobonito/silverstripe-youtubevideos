@@ -1,3 +1,8 @@
+# WARNING: Module depreciated
+
+This SilverStripe module is depreciated please consider using the
+[`silverstripe-shortcodes`](https://github.com/studiobonito/silverstripe-shortcodes) module instead.
+
 # YouTube Videos Module
 
 ## Overview
